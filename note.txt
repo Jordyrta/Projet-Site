@@ -1,0 +1,54 @@
+SITE E-COMMERCE STREETWEAR
+
+//page d'acceuil
+
+logo
+
+langage fr/en...
+
+inscription / connexion (réduction 10% sur la première commande)
+
+catégorie Homme/Femme/Enfants/Drops
+
+panier
+
+loupe de recherche
+
+//cat homme :
+
+- collection haut/bas/accesoires...
+- prix/taille + guide 
+- promotion
+- animation image/photo
+- produit récemment regardé
+
+//cat femme :
+
+- collection haut/bas/accesoires...
+- prix/taille + guide 
+- promotion
+- animation image/photo 
+- produit récemment regardé
+
+//cat enfants :
+
+- collection haut/bas...
+- prix/taille + guide 
+- promotion
+- animation image/photo 
+- produit récemment regardé
+
+//Drops :
+
+- article limité
+- nouveauté
+- background animée
+
+//paiement/livraison :
+
+- paypal
+- carte bancaire
+- colissimo
+- mondial relay
+
+//cookies : 
